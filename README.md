@@ -14,4 +14,4 @@ Python · Streamlit · Groq API · Llama 3.3 70B · newspaper3k
 ```bash
 pip install streamlit groq newspaper3k lxml[html_clean]
 ```
-Add your Groq API key to `.streamlit/secrets.toml`:
+
